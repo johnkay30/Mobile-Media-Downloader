@@ -1,0 +1,5 @@
+{
+  "description": "A high-fidelity mobile media downloader application UI with simulated fetching using Gemini API.",
+  "requestFramePermissions": [],
+  "name": "Mobile Media Downloader"
+}
